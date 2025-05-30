@@ -1,21 +1,10 @@
-# Security Policy
+<font size="25"><B>Security Policy</font></b><br><br>
+Reporting a Vulnerability
+If you discover a security vulnerability in this project, please report it responsibly by contacting me directly via email at [your-email@example.com] or opening a private issue on GitHub (if available).
 
-## Supported Versions
+I commit to acknowledging all valid reports within 3 business days and will provide updates as the issue is being addressed. If the vulnerability is accepted, I will work promptly to release a fix and notify affected users. If the report is declined, I will explain the reasons clearly.
+<br><br>
+<b>Important Legal Notice</b><br>
+Please note that any security research or testing must be conducted ethically and within legal boundaries. I cannot be held responsible or treated as a suspect for any actions that may be interpreted as unauthorized or malicious.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+By reporting vulnerabilities responsibly, you help improve the security of this project for everyone. Thank you for your cooperation.
